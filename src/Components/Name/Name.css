@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+.name{
+    display: flex;
+    
+}
+
+.name1{
+    color: white;
+    font-family: 'Silkscreen', cursive;
+    font-size: xx-large;
+    margin: 10px;
+    border: dotted;
+}
